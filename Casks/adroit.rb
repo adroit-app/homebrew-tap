@@ -1,6 +1,6 @@
 cask "adroit" do
-  version "0.8.0"
-  sha256 "090b9835b321a5e8d4e6ca84a8232311c8f0f3ca4cb6a203ed42603969982439"
+  version "0.9.0"
+  sha256 "63b2b32d1f033cf87ea56ed9b8d58afc2bae32c7ebc52433d9bc29235cdf170f"
 
   url "https://github.com/adroit-app/Adroit/releases/download/v#{version}/Adroit_#{version}_aarch64.dmg"
   name "Adroit"
